@@ -1,5 +1,5 @@
 #
-#   Copyright (c) 2010 Harshavardhana 
+#   Copyright (c) 2010 Freetalk Python 
 #   This file is part of freetalkpy.
 #
 #   FreetalkPy is free software; you can redistribute it and/or 
