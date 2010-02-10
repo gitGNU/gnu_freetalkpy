@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #                                                                                                             
 #   Copyright (c) 2010 Freetalk Python                                                                         
 #   This file is part of freetalkpy.                                                                          
@@ -16,7 +17,6 @@
 #   along with this program.  If not, see                                                                      
 #   <http://www.gnu.org/licenses/>.  
 
-#!/usr/bin/python
 # -*- coding: utf-8 -*-
 """Framework for a minimal shell.
 """
